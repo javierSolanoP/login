@@ -1,0 +1,18 @@
+{
+    "name": "laravell/login",
+    "description": "Paquete para validar inicio de sesion de usuarios.",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Laravell\\Login\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "javierSolanoP",
+            "email": "jmsolano24@misena.edu.co"
+        }
+    ],
+    "require": {}
+}
